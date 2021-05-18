@@ -1,0 +1,17 @@
+.content-inputs{
+  display:flex;
+  justify-content: space-between;
+  width:100%;
+}
+
+.contenedor__agregartarea{
+    padding: 20px;
+  }
+  .input__agregartarea{
+    width: 70%;
+    padding-right: 20px;
+  }
+ 
+  .task-input{
+    width: 80%;
+  }

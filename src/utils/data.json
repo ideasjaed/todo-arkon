@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "descripcion": "lorem x - 1",
+      "duracion": 1,
+      "transcurridoMinutos": 0,
+      "transcurridoSegundos": 0,
+      "isComplete": false,
+      "dateComplete": "00/00/0000"
+    },
+    {
+      "id": 2,
+      "descripcion": "lorem x - 2",
+      "duracion": 1,
+      "transcurridoMinutos": 0,
+      "transcurridoSegundos": 0,
+      "isComplete": false,
+      "dateComplete": "00/00/0000"
+    },
+    {
+      "id": 3,
+      "descripcion": "lorem x - 3",
+      "duracion": 1,
+      "transcurridoMinutos": 0,
+      "transcurridoSegundos": 0,
+      "isComplete": false,
+      "dateComplete": "00/00/0000"
+    },
+    {
+      "id": 4,
+      "descripcion": "lorem x - 4",
+      "duracion": 1,
+      "transcurridoMinutos": 0,
+      "transcurridoSegundos": 0,
+      "isComplete": false,
+      "dateComplete": "00/00/0000"
+    }
+  ]
